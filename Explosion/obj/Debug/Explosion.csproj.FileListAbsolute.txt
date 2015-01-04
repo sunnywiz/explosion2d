@@ -1,0 +1,6 @@
+B:\2014\Explosion\Explosion\bin\Debug\Explosion.exe.config
+B:\2014\Explosion\Explosion\bin\Debug\Explosion.exe
+B:\2014\Explosion\Explosion\bin\Debug\Explosion.pdb
+B:\2014\Explosion\Explosion\obj\Debug\Explosion.csprojResolveAssemblyReference.cache
+B:\2014\Explosion\Explosion\obj\Debug\Explosion.exe
+B:\2014\Explosion\Explosion\obj\Debug\Explosion.pdb
