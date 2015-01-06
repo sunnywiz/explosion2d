@@ -7,10 +7,24 @@ using System.Threading.Tasks;
 namespace Explosion
 {
 
+    /// <summary>
+    /// THis program was inspired by version 1.15e of FortressCraft.  The explosions could use a bit of tweaking
+    /// so my brain started obsessing about it, so i wrote this code while on vacation. 
+    /// </summary>
     class Program
     {
+
+
+
         static void Main(string[] args)
         {
+            // TODO: 
+            // - make this 3D instead
+            // - make the power of the explosion drop down log/exp instead of linear
+            // - make it so that CircleNav gets a bool back of "keep going or not". If a shell gets all false, stops running
+            // - make it so that circleNav does not need a max radius to do its work.  (by JIT-expanding the lookup table as needed)
+            // -note that this is a static thingy, calculate once use forever.
+
             try
             {
                 var pattern1 = new string[] {
